@@ -51,7 +51,7 @@ public class movement : MonoBehaviour
         }
         else
         {
-            curentVelocity.y -= gravity * 3 * Time.deltaTime;
+            curentVelocity.y -= gravity * 3.2f * Time.deltaTime;
         }
         controller.Move(curentVelocity * Time.deltaTime);
     }

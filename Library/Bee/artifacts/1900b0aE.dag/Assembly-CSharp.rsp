@@ -353,8 +353,14 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/scripts/ballSpawner.cs"
+"Assets/scripts/ballTrigger.cs"
 "Assets/scripts/camera.cs"
+"Assets/scripts/chase.cs"
 "Assets/scripts/movement.cs"
+"Assets/scripts/shoot.cs"
+"Assets/scripts/spawner.cs"
+"Assets/scripts/Target.cs"
 -langversion:9.0
 
 /deterministic
